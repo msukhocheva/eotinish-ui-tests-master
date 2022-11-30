@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.playwright:playwright:1.25.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.playwright/playwright/1.25.0/78f5e85c6777dd84a03050e3868817e9b5661c39/playwright-1.25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.playwright/playwright/1.25.0/7d3fd895e3ca69fb99abcf6c0660c9889f15ae13/playwright-1.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

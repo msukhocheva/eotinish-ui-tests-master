@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testcontainers:jdbc:1.12.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/jdbc/1.12.3/8f86e3ebf31b3a0439ba537bba770b5be219b55b/jdbc-1.12.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/jdbc/1.12.3/50bcb063c1664caf85d230e1edaf7971e20cbeb7/jdbc-1.12.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

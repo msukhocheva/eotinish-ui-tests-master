@@ -1,0 +1,16 @@
+package lists
+
+const val appealDescription = "AUTOTEST APPEAL DESCRIPTION"
+const val appealDescriptionChanged = "AUTOTEST APPEAL DESCRIPTION CHANGED"
+const val complainDescription = "AUTOTEST COMPLAIN DESCRIPTION"
+const val applicantsIIN = "123123123123"
+const val applicantsIINChanged = "321321321321"
+const val applicantsName = "AUTOTEST"
+const val applicantsSurname = "AUTOTEST"
+const val applicantsAddress = "AUTOTEST ADDRESS"
+const val applicantsAddressChanged = "AUTOTEST ADDRESS CHANGED"
+const val applicantsMobilePhone = "+7 (701) 485 67 74"
+const val appeal63Reason = "DOES NOT COMPLY WITH ARTICLE 63"
+const val appeal93Reason = "DOES NOT COMPLY WITH ARTICLE 93"
+const val aligned = "AUTOTEST APPEAL DESCRIPTION\nALIGNED"
+const val revokeComment = "REVOKE COMMENT"

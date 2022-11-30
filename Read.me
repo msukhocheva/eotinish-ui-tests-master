@@ -1,0 +1,15 @@
+Aqdding Playwright Inspector
+
+add to build.gradle.kts file
+plugins {
+application
+kotlin("jvm") version "1.5.1"
+}
+
+application {
+mainClass.set("com.microsoft.playwright.CLI")
+}
+
+./gradlew run --args="install"
+./gradlew run --args="install-deps"
+./gradlew run --args="open playwright.dev"

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.python:jython-slim:2.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.python/jython-slim/2.7.2/36f164b121b0d626830fb47e20dfe40d876871c8/jython-slim-2.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.python/jython-slim/2.7.2/da925c3c97a166de1481148310b0d1b0dd1dd90c/jython-slim-2.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
